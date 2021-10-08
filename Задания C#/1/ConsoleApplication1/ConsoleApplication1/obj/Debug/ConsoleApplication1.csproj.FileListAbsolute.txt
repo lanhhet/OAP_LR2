@@ -1,0 +1,13 @@
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1a\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1a\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1a\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1a\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1a\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1a\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\1DARYA\BSTU\2COURSE\ооп\лабораторные\лабораторная 2\Задания C#\1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
